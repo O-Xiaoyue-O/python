@@ -1,0 +1,9 @@
+#grades=[12,60,15,70,87]
+#grades[0:3]=[]
+#grades=grades+[12,33]
+#length=len(grades)
+#print(length)
+#data=[[3,4,5],[6,7,8]]
+#print(data)
+#data[0][0:2]=[5,5,5]
+#print(data)
